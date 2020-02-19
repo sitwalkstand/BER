@@ -18,7 +18,7 @@ variables:
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
   azureSubscription: 'AzureConnection'
-  resourceGroupName: 'berfunc'
+  resourceGroupName: 'BER-ResourceGroup'
   location: 'East US 2'
   administratorLogin: 'beruser'
 
