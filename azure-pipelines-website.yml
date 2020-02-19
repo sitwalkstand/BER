@@ -17,7 +17,7 @@ variables:
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
   azureSubscription: 'AzureConnection'
-  resourceGroupName: 'BER-ResourceGroup'
+  resourceGroupName: 'berblog'
   location: 'East US 2'
   administratorLogin: 'beruser'
   # Information for issuing JWT tokens to clients
